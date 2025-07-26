@@ -41,9 +41,3 @@ Configure your grub/grub2 similar to what is given in `_grub_grub2_config` folde
 
 Reboot.
 
-Voila!
-
-![kernel screenshot](http://static.tumblr.com/gltvynn/yOdn443dr/mkernel.png "Screenshot")
-
-#### The next step ####
-See [mkeykernel repo](//github.com/arjun024/mkeykernel)
